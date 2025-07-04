@@ -41,7 +41,7 @@ cd desktop
 ```
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ScrapAI.git
+git clone https://github.com/Yacine20elfadili/ScrapAI.git
 ```
 
 Now on Desktop, you should see a new folder called 'ScrapAI'.
